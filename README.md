@@ -8,4 +8,4 @@ get-childitem
 get-content
 
 ```
-[Sheridan Collge](https://www.sheridancollege.c) is located in three cities [Brampton](https://www.brampton.c"), [Oakville](www.oakville.ca")
+[Sheridan Collge](https://www.sheridancollege.ca) is located in three cities [Brampton](https://www.brampton.c"), [Oakville](www.oakville.ca")
